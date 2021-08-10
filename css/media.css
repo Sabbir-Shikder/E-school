@@ -1,0 +1,317 @@
+@media (min-width: 992px) and (max-width: 1199px){
+    /* course part  */
+    .course ul li {
+        font-size: 14px;
+    }
+    /* testimonial part  */
+    .person {
+        width: 60%;
+        margin: 0 auto;
+        margin-top: 8%;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px){
+    /* navbar  */
+    .navbar-brand img {
+        width: 60%;
+    }
+    .navbar-brand{
+        width: 70%;
+        text-align: left;
+    }
+    /* banner part  */
+    /* .hero-content .banner_h5_div h5 {
+        font-size: 12px;
+    } */
+    .hero-content h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .hero-content p {
+        font-size: 16px;
+        line-height: 30px;
+        margin-top: 20px;
+    }
+    .hero_image {
+        margin: auto;
+    }
+    /* testimonial part  */
+    .person {
+        width: 70%;
+        margin-top: 30%;
+    }
+
+    /* footer  */
+    .bottom-footer{
+        padding-top: 0px !important;
+    }
+
+}
+@media screen and (max-width: 800px) {
+    .wow{
+        animation-name: none !important;
+        visibility: visible !important;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px){
+    /* navbar  */
+    .navbar-brand img {
+        width: 55%;
+    }
+    .navbar-brand{
+        width: 70%;
+        text-align: left;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .sign_up_btn{
+        display: inline-block;
+        margin: auto;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgb(255 255 255 / 0%);
+        border-color: rgba(0,0,0,.1);
+    }
+    /* banner part */
+    .hero-section {
+        min-height: 125vh !important;
+    }
+    .hero-section .row{
+        text-align: center;
+        padding: 0 !important;
+    }
+    .hero_image {
+        padding-bottom: 60px !important;
+    }
+    .hero-content h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    /* featuers part  */
+    .feature-content {
+        width: 85%;
+        margin: auto;
+    }
+    .feature-content2 {
+        width: 85%;
+        margin: auto;
+    }
+    .feature-content3 {
+        width: 85%;
+        margin: auto;
+    }
+    .feature-content4 {
+        width: 85%;
+        margin: auto;
+    }
+    /* courses part  */
+    .heading{
+        margin-bottom: 50px !important;
+    }
+    .heading h1 {
+        font-weight: bold;
+        font-size: 25px;
+        line-height: 0;
+    }
+    .course-section .col-md-4{
+        width: 85%;
+        margin: auto;
+    }
+    .course {
+        padding: 15px;
+        width: 85%;
+        margin: auto;
+    }
+    /* testimonial section  */
+    .person {
+        width: 25%;
+        border-radius: 50%;
+    }
+    .para {
+        font-size: 14px;
+        line-height: 27px;
+        text-align: center;
+    }
+    /* footer  */
+    footer {
+        text-align: center;
+    }
+    .bottom-footer{
+        padding-top: 0px !important;
+    }
+
+}
+@media (min-width: 426px) and (max-width: 575px){
+    /* navbar  */
+    .navbar-brand img {
+        width: 55%;
+    }
+    .navbar-brand{
+        width: 70%;
+        text-align: left;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .sign_up_btn{
+        display: inline-block;
+        margin: auto;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgb(255 255 255 / 0%);
+        border-color: rgba(0,0,0,.1);
+    }
+    /* banner part */
+    .hero_image {
+        padding-bottom: 60px !important;
+    }
+    .hero-section .row{
+        text-align: center;
+        padding: 0 !important;
+    }
+    .hero-content .banner_h5_div h5 {
+        font-size: 12px;
+    }
+    .hero-content h1 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .hero-content p {
+        font-size: 14px;
+        line-height: 26px;
+        margin-top: 20px;
+    }
+    /* features section  */
+    .features .row .col-md-3{
+        width: 75%;
+        margin: auto;
+    }
+    .feature-content {
+        width: 80%;
+        margin: auto;
+    }
+    .feature-content2 {
+        width: 80%;
+        margin: auto;
+    }
+    .feature-content3 {
+        width: 80%;
+        margin: auto;
+    }
+    .feature-content4 {
+        width: 80%;
+        margin: auto;
+    }
+    /* courses part  */
+    .heading{
+        margin-bottom: 50px !important;
+    }
+    .heading h1 {
+        font-weight: bold;
+        font-size: 25px;
+        line-height: 0;
+    }
+    .course-section .col-md-4{
+        width: 70%;
+        margin: auto;
+    }
+    .course {
+        padding: 15px;
+        width: 70%;
+        margin: auto;
+    }
+    .course ul li {
+        font-size: 14px;
+    }
+    /* testimonial section  */
+    .person {
+        width: 25%;
+        border-radius: 50%;
+    }
+    .para {
+        font-size: 14px;
+        line-height: 27px;
+        text-align: center;
+    }
+    /* footer  */
+    footer {
+        text-align: center;
+    }
+    .bottom-footer{
+        padding-top: 0px !important;
+    }
+}
+@media (min-width: 0px) and (max-width: 425px){
+    /* navbar  */
+    .navbar-brand img {
+        width: 55%;
+    }
+    .navbar-brand{
+        width: 70%;
+        text-align: left;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .sign_up_btn{
+        display: inline-block;
+        margin: auto;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgb(255 255 255 / 0%);
+        border-color: rgba(0,0,0,.1);
+    }
+    /* banner part */
+    .hero_image {
+        padding-bottom: 40px !important;
+    }
+    .hero-section .row{
+        text-align: center;
+        padding: 0 !important;
+    }
+    .hero-content .banner_h5_div h5 {
+        font-size: 12px;
+    }
+    .hero-content h1 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .hero-content p {
+        font-size: 14px;
+        line-height: 26px;
+        margin-top: 20px;
+    }
+
+    /* courses part  */
+    .heading{
+        margin-bottom: 50px !important;
+    }
+    .heading h1 {
+        font-weight: bold;
+        font-size: 25px;
+        line-height: 0;
+    }
+    .course {
+        padding: 15px;
+    }
+    .course ul li {
+        font-size: 14px;
+    }
+    /* testimonial section  */
+    .person {
+        border-radius: 50%;
+    }
+    .para {
+        font-size: 14px;
+        line-height: 27px;
+        text-align: center;
+    }
+    /* footer  */
+    footer {
+        text-align: center;
+    }
+    .bottom-footer{
+        padding-top: 0px !important;
+    }
+}
